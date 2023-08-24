@@ -1,5 +1,3 @@
-Legal and Regulatory Considerations for AI Implementation in Small Business Sales
-===============================================================================================================================================
 
 In this chapter, we will discuss the importance of AI ethics and governance for small business sales. While AI can be a powerful tool for improving sales processes, it is important to ensure that its use is ethical and complies with legal and regulatory requirements.
 

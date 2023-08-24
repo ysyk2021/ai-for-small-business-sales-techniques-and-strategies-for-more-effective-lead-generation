@@ -1,5 +1,3 @@
-Case Studies of Successful AI Implementations in Lead Generation
-===============================================================================================================================
 
 In this chapter, we will discuss case studies of successful AI implementations in lead generation. By examining these real-world examples, small businesses can gain insight into how AI can be effectively implemented to improve lead generation and increase revenue.
 

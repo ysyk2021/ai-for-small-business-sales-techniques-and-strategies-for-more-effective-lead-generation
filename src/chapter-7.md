@@ -1,5 +1,3 @@
-Chapter 6: Measuring AI Impact on Sales Performance
-===================================================
 
 One of the challenges of implementing AI technology in small business sales is measuring its impact on sales performance. In this chapter, we will explore best practices for assessing the effectiveness of AI for small business sales, identifying areas for improvement and refinement, and continuously adapting and improving your AI approach for sales.
 

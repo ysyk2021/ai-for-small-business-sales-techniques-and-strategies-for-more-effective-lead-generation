@@ -1,5 +1,3 @@
-Assessing the Effectiveness of AI for Small Business Sales
-===============================================================================================================
 
 In this chapter, we will discuss how small businesses can assess the effectiveness of AI for their sales processes. By effectively measuring AI impact, businesses can identify areas for improvement and refinement and optimize their sales processes for maximum effectiveness.
 

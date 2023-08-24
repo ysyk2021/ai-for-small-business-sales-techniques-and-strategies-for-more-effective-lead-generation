@@ -1,5 +1,3 @@
-Assessing Your Sales Needs and Goals
-=============================================================================================================
 
 In this chapter, we will discuss the importance of assessing your sales needs and goals when preparing for artificial intelligence (AI) implementation in small business sales. By understanding your sales needs and goals, you can effectively leverage AI to improve your sales processes and increase revenue.
 

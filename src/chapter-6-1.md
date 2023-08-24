@@ -1,5 +1,3 @@
-Overview of AI Applications for Lead Generation
-==============================================================================================================
 
 AI technology offers several applications for lead generation that can help small businesses optimize their sales processes and drive better results. In this chapter, we will explore the different AI applications for lead generation.
 

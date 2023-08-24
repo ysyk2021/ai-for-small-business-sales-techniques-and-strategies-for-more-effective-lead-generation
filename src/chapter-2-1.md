@@ -1,5 +1,3 @@
-Definition of AI
-======================================================================
 
 In this chapter, we will provide an overview of artificial intelligence (AI) and its application in small business sales. By understanding what AI is and how it works, businesses can effectively leverage its capabilities to improve their sales processes.
 

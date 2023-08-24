@@ -1,5 +1,3 @@
-Why AI is Important for Small Business Sales
-==========================================================
 
 In today's digital age, small businesses are facing increasing pressure to stay competitive and adapt to changing market conditions. One of the key ways that small businesses can gain a competitive advantage is by leveraging artificial intelligence (AI) in their sales processes.
 

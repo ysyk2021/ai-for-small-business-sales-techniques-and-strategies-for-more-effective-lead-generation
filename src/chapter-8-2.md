@@ -1,5 +1,3 @@
-Developing Governance Frameworks to Ensure Responsible AI Use
-===========================================================================================================================
 
 As small businesses increasingly adopt AI technology in their sales processes, it is important to consider the ethical implications of AI use. In this chapter, we will explore the importance of AI ethics and governance for small business sales and discuss best practices for developing governance frameworks to ensure responsible AI use.
 

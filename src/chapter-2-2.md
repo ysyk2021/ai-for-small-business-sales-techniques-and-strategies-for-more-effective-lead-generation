@@ -1,5 +1,3 @@
-Types of AI Used for Small Business Sales
-===============================================================================================
 
 In this chapter, we will discuss the different types of artificial intelligence (AI) that can be used for small business sales. By understanding the different types of AI, businesses can effectively leverage its capabilities to improve their sales processes.
 

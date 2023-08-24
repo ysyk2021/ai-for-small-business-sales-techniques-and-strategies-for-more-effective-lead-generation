@@ -1,5 +1,3 @@
-Overview of AI Tools and Technologies for Sales
-==================================================================================================================
 
 In this chapter, we will provide an overview of the different artificial intelligence (AI) tools and technologies that can be used for small business sales. By understanding the different options available, businesses can choose the right AI tools and technologies to improve their sales processes.
 

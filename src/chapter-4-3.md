@@ -1,5 +1,3 @@
-Case Studies of Successful AI Implementations in Sales
-=========================================================================================================================
 
 In this chapter, we will discuss how to choose the right artificial intelligence (AI) tools and technologies for small business sales. We will also provide case studies of successful AI implementations in sales.
 
