@@ -6,3 +6,7 @@ The objective of this book is to provide small business owners with an overview 
 By covering a broad range of topics related to AI for small business sales, this book aims to provide a comprehensive resource for small business owners looking to leverage AI technologies to improve their lead generation techniques and increase their sales. Whether you're a startup or an established small business, this book will provide valuable insights and practical advice on how to effectively implement AI strategies for lead generation and sales.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
